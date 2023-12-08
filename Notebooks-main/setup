@@ -1,0 +1,7 @@
+To activate conda's base environment in your current shell session:
+
+eval "$(/home/samccann/venvs/anaconda3/bin/conda shell.YOUR_SHELL_NAME hook)" 
+
+To install conda's shell functions for easier access, first activate, then:
+
+conda init

@@ -1,7 +1,0 @@
-# Starting up
-
-```
-   source ~/venvs/python/bin/activate
-   cd exercise_files
-   jupyter notebook
-```
